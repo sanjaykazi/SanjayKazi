@@ -1,4 +1,5 @@
 <img align="right" height="180px" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
+
 ### Hi there 👋, Sanjay this side.
 
 #### I am a coding lover and ML/AI, enthusiast.
