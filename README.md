@@ -18,12 +18,12 @@ I am an IIT Bombay undergraduate stepping in my 7th semester. Technologies have 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sanjaykazi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sanjay_4.9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kazi_sanjay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/sanjaykazi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/sanjaykazi)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykazi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykazi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaykazi&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaykazi&show_icons=true&theme=radical)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanjaykazi)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanjaykazi&theme=radical)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sanjaykazi)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sanjaykazi&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/sanjaykazi)  
