@@ -15,7 +15,6 @@ Skills: C++ / Python / JS / HTML / CSS / R / MATLAB
 - ⚡ Fun fact: I hardly loose chills.😎 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sanjaykazi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sanjay_4.9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kazi_sanjay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/sanjaykazi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/sanjaykazi)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykazi)](https://github.com/anuraghazra/github-readme-stats)
 
