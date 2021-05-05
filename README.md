@@ -3,7 +3,7 @@
 
 I am an IIT Bombay undergraduate stepping in my 7th semester. Technologies have always interested me. ML and AI are cutting new edges every next day and I wish to continue this trend with my contributions.
 
-<img align="right" height="180px"src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
+<img align="right" height="180px" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 
 Skills: C++ / Python / JS / HTML / CSS / R / MATLAB
 
