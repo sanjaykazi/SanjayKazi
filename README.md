@@ -20,9 +20,7 @@ I am an IIT Bombay undergraduate stepping in my 7th semester. Technologies have 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykazi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaykazi&show_icons=true&theme=radical)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanjaykazi&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaykazi&show_icons=true&theme=radical)    
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sanjaykazi&theme=radical)  
 
