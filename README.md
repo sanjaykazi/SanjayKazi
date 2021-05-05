@@ -5,7 +5,11 @@ I am an IIT Bombay undergraduate stepping in my 7th semester. Technologies have 
 
 
 
-Skills: C++ / Python / JS / HTML / CSS / R / MATLAB
+## Skills
+- 💻 C++ 
+- 🐍 Python 
+- 🕸 JS, HTML, CSS 
+- 🧮 R / MATLAB
 
 - 🔭 I’m currently working on GRIP @ The Spark Foundation 
 - 🌱 I’m currently learning Javascript 
