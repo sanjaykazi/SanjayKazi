@@ -12,7 +12,7 @@ I am an IIT Bombay undergraduate stepping in my 7th semester. Technologies have 
 - 💻 C++ 
 - 🐍 Python 
 - 🕸 JS, HTML, CSS 
-- 🧮 R / MATLAB
+- 🧮 R / MATLAB.
 
 
 
