@@ -9,9 +9,9 @@ I am an IIT Bombay undergraduate stepping in my 7th semester. Technologies have 
 #
 
 ##  Skills:
-- 💻 C++ 
+- 💻 C++, DSA
 - 🐍 Python 
-- 🕸 JS, HTML, CSS 
+- 🕸 JS, HTML, CSS, Node.js, React
 - 🧮 R / MATLAB.
 
 
