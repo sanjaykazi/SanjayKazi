@@ -5,7 +5,7 @@
 #### I am a coding lover and ML/AI, enthusiast.
 
 I am an IIT Bombay undergraduate stepping in my 7th semester. Technologies have always interested me. ML and AI are cutting new edges every next day and I wish to continue this trend with my contributions.
-
+#
 
 ##  Skills:
 - 💻 C++, DSA
@@ -24,3 +24,4 @@ I am an IIT Bombay undergraduate stepping in my 7th semester. Technologies have 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sanjaykazi&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/sanjaykazi)  
+#
