@@ -23,5 +23,5 @@ I am an IIT Bombay undergraduate stepping in my 7th semester. Technologies have 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sanjaykazi&theme=radical)  
 
-![Profile views](https://gpvc.arturio.dev/sanjaykazi)  
+[![](https://visitcount.itsvg.in/api?id=sanjaykazi&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)  
 
